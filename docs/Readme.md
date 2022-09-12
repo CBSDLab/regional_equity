@@ -4,10 +4,9 @@ The Regional Equity model is a demonstration system dynamics model illustrating 
 
 # Overview
 
-The model (shown below) 
+The model (shown below) represents the social determinants of health (SDOH) for each census tract in the county as the Health Equity Index (HEI) with initial values from 2021 provided by [HealthyNeo](https://www.healthyneo.org/indexsuite/index/healthequity). The loop B1 allocates the total resources to reduce SDOH for each tract, which is distirbuted based on the selected policy (status quote, equality, or equity). 
 
-<img src="https://user-images.githubusercontent.com/8854922/189572235-d5a51cc2-4f62-4fa7-97fc-7f8863caf1f6.png" width="50%">
-
+<img src="https://user-images.githubusercontent.com/8854922/189573496-d90e6c42-9d6d-46d6-a431-9e0a43925c3f.png" width="50%">
 
 # Simulate Policies
 
