@@ -6,7 +6,7 @@ The Regional Equity model is a demonstration system dynamics model illustrating 
 
 The model (shown below) 
 
-![image](https://user-images.githubusercontent.com/8854922/189571024-383f83df-1cd6-4b1c-ac9f-135b7ec04038.png)
+![image](https://user-images.githubusercontent.com/8854922/189571024-383f83df-1cd6-4b1c-ac9f-135b7ec04038.png){width="50%}
 
 
 
