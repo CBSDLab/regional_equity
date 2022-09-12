@@ -13,7 +13,7 @@ The model (shown below) represents the social determinants of health ( $SDOH$ ) 
 The model simulates three different types of policies for allocating resources to reducing health inequities: 
 
 * Status quo: no investments are made.
-* Equality: the total resources are distributed equally across census tracts. Specifically $SDOH\_Resoource\_Allocation_{j} =  Investment\_Fractional\_Rate \cdot SDOH\_Total/N$.
+* Equality: the total resources are distributed equally across census tracts.
 * Equity: the total resources are distributed based on need with census tracts with greater need receiving a greater allocation of resources. 
 
 # Simulate Policies
