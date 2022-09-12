@@ -2,5 +2,5 @@
 Regional equity project
 
 
-[online interface](git push --set-upstream origin psh_setup)
+[online interface](https://exchange.iseesystems.com/public/psh/hei-demo/index.html#page1)
 
